@@ -1,0 +1,144 @@
+2022-08-27 23:07:12:712 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-27 23:09:07:97 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-27 23:09:07:97 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-27 23:09:54:954 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.z7ytsj.mongodb.net[39m
+2022-08-27 23:09:54:954 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-27 23:10:07:107 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-27 23:10:07:107 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-27 23:11:00:110 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-27 23:11:00:110 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-27 23:11:08:118 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.z7ytsj.mongodb.net[39m
+2022-08-27 23:11:36:1136 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-27 23:11:36:1136 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-27 23:14:03:143 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-27 23:14:03:143 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-27 23:14:27:1427 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-27 23:14:27:1427 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-27 23:14:33:1433 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-27 23:14:33:1433 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-27 23:25:36:2536 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-27 23:25:36:2536 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-27 23:25:50:2550 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-27 23:25:50:2550 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-27 23:26:38:2638 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-27 23:26:38:2638 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-27 23:27:03:273 - [35mhttp[39m: [35mGET /api/test 304 - - 4.845 ms[39m
+[35m[39m
+2022-08-27 23:27:17:2717 - [35mhttp[39m: [35mGET /api/test 304 - - 1.290 ms[39m
+[35m[39m
+2022-08-28 00:49:41:4941 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-28 00:49:41:4941 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-28 00:49:45:4945 - [35mhttp[39m: [35mPOST /api/movies 404 150 - 9.861 ms[39m
+[35m[39m
+2022-08-28 00:50:33:5033 - [35mhttp[39m: [35mPOST /api/movie 200 14 - 3.239 ms[39m
+[35m[39m
+2022-08-28 00:55:23:5523 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-28 00:55:23:5523 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-28 00:56:18:5618 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-28 00:56:18:5618 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-28 00:57:35:5735 - [35mhttp[39m: [35mPOST /api/movie 200 131 - 333.503 ms[39m
+[35m[39m
+2022-08-29 08:50:25:5025 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 08:50:25:5025 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 08:50:56:5056 - [35mhttp[39m: [35mPOST /api/movie 201 131 - 111.261 ms[39m
+[35m[39m
+2022-08-29 08:51:39:5139 - [35mhttp[39m: [35mPOST /api/movie 201 161 - 94.710 ms[39m
+[35m[39m
+2022-08-29 09:20:03:203 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 09:20:03:203 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 09:20:20:2020 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 09:20:20:2020 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 09:21:06:216 - [35mhttp[39m: [35mPOST /api/movie 201 151 - 347.015 ms[39m
+[35m[39m
+2022-08-29 09:41:38:4138 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 09:41:38:4138 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 09:42:25:4225 - [35mhttp[39m: [35mPOST /api/movie 422 50 - 29.643 ms[39m
+[35m[39m
+2022-08-29 09:45:13:4513 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 09:45:13:4513 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 09:45:24:4524 - [35mhttp[39m: [35mPOST /api/movie 422 70 - 10.044 ms[39m
+[35m[39m
+2022-08-29 09:52:23:5223 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 09:52:23:5223 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 09:53:13:5313 - [35mhttp[39m: [35mPOST /api/movie 422 57 - 14.584 ms[39m
+[35m[39m
+2022-08-29 09:53:25:5325 - [35mhttp[39m: [35mPOST /api/movie 422 55 - 6.234 ms[39m
+[35m[39m
+2022-08-29 09:53:32:5332 - [35mhttp[39m: [35mPOST /api/movie 201 175 - 109.027 ms[39m
+[35m[39m
+2022-08-29 10:27:25:2725 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 10:27:26:2726 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 10:30:13:3013 - [35mhttp[39m: [35mPOST /api/movie 201 207 - 135.593 ms[39m
+[35m[39m
+2022-08-29 10:30:48:3048 - [35mhttp[39m: [35mPOST /api/movie 422 61 - 7.190 ms[39m
+[35m[39m
+2022-08-29 10:31:22:3122 - [35mhttp[39m: [35mPOST /api/movie 201 199 - 78.430 ms[39m
+[35m[39m
+2022-08-29 10:35:02:352 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 10:35:02:352 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 10:35:47:3547 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 10:35:47:3547 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 10:36:08:368 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 10:36:08:368 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 10:40:26:4026 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 10:40:26:4026 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 10:43:55:4355 - [35mhttp[39m: [35mPOST /api/movie 422 101 - 13.377 ms[39m
+[35m[39m
+2022-08-29 10:46:00:460 - [35mhttp[39m: [35mPOST /api/movie 422 52 - 2.704 ms[39m
+[35m[39m
+2022-08-29 10:46:13:4613 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 10:46:13:4613 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 10:46:13:4613 - [35mhttp[39m: [35mPOST /api/movie 422 51 - 13.264 ms[39m
+[35m[39m
+2022-08-29 10:48:02:482 - [35mhttp[39m: [35mPOST /api/movie 201 361 - 99.013 ms[39m
+[35m[39m
+2022-08-29 11:52:02:522 - [35mhttp[39m: [35mPOST /api/movie 201 407 - 330.145 ms[39m
+[35m[39m
+2022-08-29 14:49:59:4959 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 14:49:59:4959 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 14:53:50:5350 - [35mhttp[39m: [35mGET /api/movie/630cd292c5da8259c43495b6 201 407 - 115.276 ms[39m
+[35m[39m
+2022-08-29 14:54:56:5456 - [35mhttp[39m: [35mGET /api/movie/630cd292c5da8259c43495b7 404 32 - 347.085 ms[39m
+[35m[39m
+2022-08-29 14:55:06:556 - [35mhttp[39m: [35mGET /api/movie/630cd292c5da8259c43495b6 201 407 - 84.140 ms[39m
+[35m[39m
+2022-08-29 15:07:25:725 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 15:07:25:725 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 15:10:59:1059 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 15:10:59:1059 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 15:11:30:1130 - [35mhttp[39m: [35mGET /api/movie 200 1669 - 155.625 ms[39m
+[35m[39m
+2022-08-29 15:19:38:1938 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 15:19:38:1938 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 15:20:50:2050 - [35mhttp[39m: [35mGET /api/movie 200 1669 - 94.427 ms[39m
+[35m[39m
+2022-08-29 15:21:10:2110 - [35mhttp[39m: [35mDELETE /api/movie/630ca84bc44734a7b42ea8c1 200 37 - 147.876 ms[39m
+[35m[39m
+2022-08-29 15:48:26:4826 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 15:48:26:4826 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 15:48:34:4834 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 15:48:34:4834 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 15:58:48:5848 - [35mhttp[39m: [35mPATCH /api/movie/630caf3279a2fc4c84fe3395 404 175 - 21.730 ms[39m
+[35m[39m
+2022-08-29 16:00:22:022 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 16:00:22:022 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 16:00:36:036 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 16:00:36:036 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 16:00:41:041 - [35mhttp[39m: [35mPATCH /api/movie/630caf3279a2fc4c84fe3395 404 175 - 8.415 ms[39m
+[35m[39m
+2022-08-29 16:08:20:820 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 16:08:20:820 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 16:09:07:97 - [35mhttp[39m: [35mPATCH /api/movie/630caf3279a2fc4c84fe3395 200 240 - 192.670 ms[39m
+[35m[39m
+2022-08-29 16:09:25:925 - [35mhttp[39m: [35mPATCH /api/movie/630caf3279a2fc4c84fe3395 200 230 - 170.819 ms[39m
+[35m[39m
+2022-08-29 16:09:35:935 - [35mhttp[39m: [35mPATCH /api/movie/630caf3279a2fc4c84fe3395 200 240 - 174.516 ms[39m
+[35m[39m
+2022-08-29 16:10:03:103 - [32minfo[39m: [32mMongoDb connect: ok[39m
+2022-08-29 16:10:03:103 - [32minfo[39m: [32m🚀 Server ready at: http://localhost:3000[39m
+2022-08-29 16:10:12:1012 - [35mhttp[39m: [35mPATCH /api/movie/630caf3279a2fc4c84fe3395 422 108 - 21.037 ms[39m
+[35m[39m
+2022-08-29 16:10:25:1025 - [35mhttp[39m: [35mPATCH /api/movie/630caf3279a2fc4c84fe3395 200 240 - 244.676 ms[39m
+[35m[39m
+2022-08-29 16:10:45:1045 - [35mhttp[39m: [35mPATCH /api/movie/630caf3279a2fc4c84fe3395 200 240 - 140.326 ms[39m
+[35m[39m
